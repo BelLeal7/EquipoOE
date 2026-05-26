@@ -1,2 +1,1 @@
-# EquipoOE
-Trabajo Práctico: Gestión Colaborativa, Control de Versiones y Organización Empresarial (Git, GitHub y Jira)
+# TP Gestión Colaborativa - Análisis de Ventas 
